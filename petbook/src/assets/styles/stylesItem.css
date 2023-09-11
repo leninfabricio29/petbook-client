@@ -1,0 +1,28 @@
+/* Item.css */
+
+.item-container {
+    padding: 10px;
+  }
+  
+  .item-icon {
+    font-size: 24px;
+    margin-right: 10px; /* Espacio entre el icono y el título */
+  }
+  
+  .item-title {
+    font-size: 16px;
+    color: #000000; /* Color de texto similar a Instagram */
+    text-decoration: none;
+  }
+  
+ 
+  .nav-item{
+    border: none;
+    border-radius: 10px;
+    padding-left:20px;
+  }
+
+  .nav-item:hover {
+    background-color: #dbdbdb;
+  }
+  

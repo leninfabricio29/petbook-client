@@ -1,0 +1,40 @@
+/* CardFollower.css */
+
+.card-follower-suggestion {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  
+  .follower-avatar-suggestion {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%; /* Para hacer que la imagen de perfil sea circular */
+    margin-right: 10px;
+  }
+  
+  .follower-info-suggestion {
+    flex-grow: 1;
+  }
+  
+  .follower-username-suggestion {
+    font-weight: bold;
+    font-size: 14px; /* Tamaño de fuente ligeramente más pequeño que el anterior */
+    margin: 0;
+    color: #262626; /* Color de texto similar a Instagram */
+  }
+  
+  .follow-button-suggestion {
+    background-color: #0095f6; /* Color de fondo similar a Instagram */
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 10px;
+    cursor: pointer;
+    outline: none;
+    font-size: 14px; /* Tamaño de fuente ligeramente más pequeño que el anterior */
+  }
+  
